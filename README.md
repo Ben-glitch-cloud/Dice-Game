@@ -6,7 +6,13 @@
 <br> 
 <p align="center"><img width="65%" src="https://user-images.githubusercontent.com/71974361/115704683-93b2f200-a363-11eb-8466-8e683d3c27d6.png"></p>
 <p align="center">🍀Good luck🤞</p>
-<br> 
+<br>  
+<h2 align="center">Tech Stack</h2>  
+
+<h3 align="center">Langauages</h3>
+
+<p align="center" ><img src="https://img.shields.io/badge/-HTML5-black?logo=HTML5&logoColor=blue"> <img src="https://img.shields.io/badge/-CSS3-black?logo=CSS3&logoColor=orange"> <img src="https://img.shields.io/badge/-Javascript-black?logo=Javascript&logoColor=yellow"></p>
+<br>
 <h3>How to get setup</h3>
 
 1. Fork the repo from Github by clicking on the Fork ⑂ button on the top right hand side.  
