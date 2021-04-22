@@ -5,7 +5,16 @@
 <p align="center">A simple 2 player dice game, where you role the dice to add to your score. However, if you role a 1 then your score resets to 0</p> 
 <br>
 <p align="center">🍀Good luck🤞</p> 
-<br>
+<br> 
+<h3>How to get setup</h3>
+
+1. Fork the repo from Github by clicking on the Fork ⑂ button on the top right hand side.  
+
+2. Creat a new directory from your terminal and copy the repo into the command line and press enter.  
+``` 
+
+```
+
 <h3>User Story</h3> 
 
 ``` 
