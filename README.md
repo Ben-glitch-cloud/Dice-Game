@@ -12,8 +12,14 @@
 
 2. Creat a new directory from your terminal and copy the repo into the command line and press enter.  
 ``` 
+$ https://github.com/Ben-glitch-cloud/Dice-Game.git
+``` 
+3. Open the directory in a code editor, then right click on the html file and choose Live server.  
 
-```
+3a. If you don't have a Live server? <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live server</a>, Download it in Visal studio code. 
+
+<p>✅All Done🍀</p> 
+<br>
 
 <h3>User Story</h3> 
 
