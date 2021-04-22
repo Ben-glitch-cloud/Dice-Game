@@ -4,4 +4,27 @@
 
 <p align="center">A simple 2 player dice game, where you role the dice to add to your score. However, if you role a 1 then your score resets to 0</p> 
 <br>
-<p align="center">🍀Good luck🤞</p>
+<p align="center">🍀Good luck🤞</p> 
+<br>
+<h3>User Story</h3> 
+
+``` 
+As a user
+So I can keep trace of my score when playing 
+I would like a points counter
+``` 
+✅
+
+``` 
+As a user 
+I would like to be able to hold my score when I have finished playing the round 
+I would like a hold button
+```
+✅ 
+
+``` 
+As a user 
+So I can play another game  
+I would like a button to restart the game 
+```
+✅
